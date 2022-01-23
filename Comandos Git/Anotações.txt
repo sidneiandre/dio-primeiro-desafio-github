@@ -1,0 +1,7 @@
+Conjuntos de Comandos Básicos que vão ser Usandos Para Navegar no Terminal.
+cd - Maudar de Pastas
+ls - Lista as Pastas
+mkdir - Criar Pastas
+rm-rf - Deletar Pastas
+cd.. - Folta um nivel da Pasta
+clear - Limpa a tela
